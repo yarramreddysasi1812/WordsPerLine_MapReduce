@@ -1,0 +1,1 @@
+hadoop jar WORDS_PER_LINE.jar com.gopal.mapred.WordsPerLine /WordsPerLineInput /WordsPerLineOutputPath

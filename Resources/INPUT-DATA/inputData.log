@@ -1,0 +1,6 @@
+Hadoop is one of the bigdata analytics tool
+Bigdata is not only storage but also the processing related aspect
+Apache Pig is a highlevel and abstract componet on top of Map Reduce
+SQOOP is the component to intract with RDBMS to import and export data
+HIVE is a warehouse kind of technology in Hadoop
+HBase is the Hadoop's Database to read/write the data dynamically
